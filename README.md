@@ -17,6 +17,7 @@ Musk’s Requirements:
 
 ### Sprint - 2 (ML Model Tuning)
 Congratulations! Elon Musk is happy with your models and insights that you have shared in the previous requirements. Now he wants you to test the models you have created for Underfitting and Overfitting. He wants you to build a best fit model.
+
 Todo -
 1. First try to check if the models you have created are a best fit or not.
 2. See if applying cross validation helps improve your models performance.
